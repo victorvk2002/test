@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T12:02:18.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="mGrlcG_uKAutimnhaVz4" version="12.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T12:15:02.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="d4rYgMVG6g39-gHI44YZ" version="12.9.9" type="github">
   <diagram id="cQsCObvcCTZSIr7sii6F" name="Page-1">
-    <mxGraphModel dx="2062" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1283" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9EY23KbuOXxdsdeV2lle-15" value="Физические машины, любо виртуальные машины (частный случай proxmox)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="170" width="770" height="20" as="geometry" />
+          <mxGeometry x="10" y="210" width="770" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9EY23KbuOXxdsdeV2lle-17" value="k8s claster" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="475" width="280" height="220" as="geometry" />
