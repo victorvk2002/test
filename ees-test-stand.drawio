@@ -1,11 +1,11 @@
-<mxfile modified="2020-04-09T19:18:53.155Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="AXI009HMWfKgNsrsHizV" version="12.9.9" type="github">
+<mxfile modified="2020-04-09T19:23:08.833Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="eiovWQx5IU4wo9zcPblt" version="12.9.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="727" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QKLWtCtMvJlHInnlzFwb-16" value="Виртуальные сервера" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-800" width="340" height="510" as="geometry" />
+          <mxGeometry x="40" y="-800" width="370" height="540" as="geometry" />
         </mxCell>
         <mxCell id="QKLWtCtMvJlHInnlzFwb-18" value="ud-virt-s-v74-01&lt;br&gt;10.3.74.10&lt;br&gt;K8S" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="-760" width="120" height="60" as="geometry" />
@@ -15,6 +15,27 @@
         </mxCell>
         <mxCell id="QKLWtCtMvJlHInnlzFwb-20" value="ud-virt-s-v74-03&lt;br&gt;10.3.74.12&lt;br&gt;K8S" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-21" value="ud-virt-s-v74-07&lt;br&gt;10.3.74.16&lt;br&gt;Cassandra" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-22" value="ud-virt-s-v74-08&lt;br&gt;10.3.74.17&lt;br&gt;Cassandra" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-23" value="ud-virt-s-v74-09&lt;br&gt;10.3.74.18&lt;br&gt;Cassandra" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-24" value="ud-virt-s-v74-04&lt;br&gt;10.3.74.13&lt;br&gt;HBase" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-25" value="ud-virt-s-v74-05&lt;br&gt;10.3.74.14&lt;br&gt;HBase" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-26" value="ud-virt-s-v74-06&lt;br&gt;10.3.74.15&lt;br&gt;HBase" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QKLWtCtMvJlHInnlzFwb-27" value="ud-virt-s-v74-10&lt;br&gt;10.3.74.19&lt;br&gt;PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
